@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
 .swal2-popup {
     font-size: 1.6rem !important;
   }
@@ -23,14 +25,6 @@
 #navbar-dropdown {
     margin-top: 6px;
     margin-right: 15px;
-}
-
-.sans {
-    font-family: 'Open Sans', sans-serif !important;
-}
-
-.label {
-    font-family: 'Roboto', sans-serif !important;
 }
 
 .form-signin {
@@ -63,7 +57,6 @@ ul .dropdown-menu .ng-isolate-scope {
 }
 
 .form-signin .form-control {
-    font-family: 'Open Sans', sans-serif;
     position: relative;
     font-size: 16px;
     height: auto;
@@ -105,7 +98,6 @@ ul .dropdown-menu .ng-isolate-scope {
 
 footer>p {
     color: #444444;
-    font-family: 'Open Sans', sans-serif;
 }
 
 .header {
@@ -125,7 +117,6 @@ footer>p {
 }
 
 .api_heading {
-    font-family: 'Open Sans', sans-serif;
     background-color: #201e1c;
     border-radius: 5px;
     padding: 10px;
