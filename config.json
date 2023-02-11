@@ -13,7 +13,7 @@
 		"key_path": "example.key"
 	},
 	"db_name": "mysql",
-	"db_path": "gophish:gophish_password@tcp(mysql)/gophish?charset=utf8&parseTime=true&loc=UTC",
+	"db_path": "gophish:gophish_password@tcp(localhost)/gophish?charset=utf8&parseTime=true&loc=UTC",
 	"migrations_prefix": "db/db_",
 	"contact_address": "support@traboda.com",
 	"logging": {
